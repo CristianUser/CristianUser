@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Intellisys D Corp](https://intellisysdcorp.com/)
 
-- 🌱 I’m currently learning **MicroServices with Fastify + TypeScript + Docker**
+- 🌱 I’m currently learning **FullStack Development with Golang + React**
 
-- 💬 Ask me about **React, Vue, Node or anything related**
+- 💬 Ask me about **React, Typescript, Node or anything related**
 
 - 📫 How to reach me **cristianmejia97@gmail.com**
 
